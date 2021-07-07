@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Avanade.SubTCSE.Projeto.Infra.Data.Repositories.EmployeeRole
 {
-    class EmployeeRepository
+    public class EmployeeRoleRepository
     {
     }
 }
